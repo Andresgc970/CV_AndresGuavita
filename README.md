@@ -16,9 +16,16 @@
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
+  ### **SENA** _(2025 - Actualidad)_
+  Aprendiz en Analisis y Desarrollo De Software.
+
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
 - Título obtenido.
+
+
+  ### **SENA** _(2025 - Actualidad)_
+  Aprendiz en Analisis y Desarrollo De Software.
 
 ## 💡 Habilidades
 - **Habilidad 1**
