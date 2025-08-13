@@ -11,7 +11,7 @@
 
 ## 🏢 Experiencia Laboral
 
-### 8 meses en mesa de ayuda (Soporte IT) en la empresa Atento, resolviendo incidencias técnicas y dando soporte a usuarios. (Septiembre 2023 - Mayo 2024
+### 8 meses en mesa de ayuda (Soporte IT) en la empresa Atento, resolviendo incidencias técnicas y dando soporte a usuarios. (Septiembre 2023 - Mayo 2024)
 
 
 
@@ -22,6 +22,8 @@
 
 ## 🎓 Educación
 Bachiller del colegio María Mercedes Carranza. ( 2021)
+
+
 Cursé cuatro semestres en Ingeniería de Sistemas en la Corporación Unificada Nacional (CUN). (2022 - aplazado)
 
   ### **SENA** _(2025 - Actualidad)_
