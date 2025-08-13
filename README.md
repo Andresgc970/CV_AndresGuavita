@@ -7,30 +7,30 @@
 ## 📞 Contacto
 - **Teléfono:** +57 3228076568
 - **Email:** Pipegc151@gmail.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [https://www.linkedin.com/in/andres-cardenas-394308323]
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### 8 meses en mesa de ayuda (Soporte IT) en la empresa Atento, resolviendo incidencias técnicas y dando soporte a usuarios. (Septiembre 2023 - Mayo 2024
+
+
+
+### 1 mes en soporte técnico nivel 1 para Claro Colombia, a través de la empresa NEXA BPO, donde fortalecí mis habilidades en diagnóstico y solución de problemas de conectividad. (Junio 2025 - Julio 2025)
 
   ### **SENA** _(2025 - Actualidad)_
   Aprendiz en Analisis y Desarrollo De Software.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+Bachiller del colegio María Mercedes Carranza. ( 2021)
+Cursé cuatro semestres en Ingeniería de Sistemas en la Corporación Unificada Nacional (CUN). (2022 - aplazado)
 
   ### **SENA** _(2025 - Actualidad)_
   Aprendiz en Analisis y Desarrollo De Software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Compromiso y orientación a resultados**
+- **Resolución de problemas técnicos**
+- **Adaptabilidad y aprendizaje continuo**
 
 ---
 
